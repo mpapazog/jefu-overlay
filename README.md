@@ -11,13 +11,17 @@ node server.js
 
 The operator view and stream overlay will be accessible at:
 
+```
 http://127.0.0.1:8080/operator.html
 http://127.0.0.1:8080/overlay.html
+```
 
 Some widgets to build hype screens:
+```
 http://127.0.0.1:8080/countdown.html
 http://127.0.0.1:8080/statebanner.html
 http://127.0.0.1:8080/team_vs_team.html
+```
 
 The system is pretty much at an MVP state. Some UI elements don't work.
 
