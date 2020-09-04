@@ -23,6 +23,6 @@ http://127.0.0.1:8080/statebanner.html
 http://127.0.0.1:8080/team_vs_team.html
 ```
 
-The system is pretty much at an MVP state. Some UI elements don't work.
+The system is pretty much at MVP state. Some UI elements don't work.
 
 Place team logos in the /html/images folder and they will be automatically scanned on server load.
